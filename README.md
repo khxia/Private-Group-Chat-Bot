@@ -1,6 +1,6 @@
 # Group Chat Bot
 
-This is a bot to create private text channels for certain members within a server.
+This is a bot that can mass create private text channels for certain members within a server.
 
 ### Requirements
 
