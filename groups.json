@@ -1,0 +1,27 @@
+{ 
+    "groups": [
+        {
+            "group_num": 1,
+            "members": [
+                "username1#1957",
+                "username2#6938",
+                "username3#6849"
+            ]
+        },
+        {
+            "group_num": 2,
+            "members": [
+                "username4#5836",
+                "username3#6849"
+            ]
+        },
+        {
+            "group_num": 3,
+            "members": [
+                "username2#6938",
+                "username4#5836"
+            ]
+        }
+    ]
+}
+
