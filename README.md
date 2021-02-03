@@ -1,4 +1,4 @@
-# Group Chat Bot
+# Discord Private Group Chat Bot
 
 This is a bot that can mass create private text channels for certain members within a server.
 
